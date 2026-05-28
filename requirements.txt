@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain-ollama
+pypdf
+faiss-cpu
+chromadb
+pandas
+rouge_score
+nltk
+bert_score
+sentence-transformers
